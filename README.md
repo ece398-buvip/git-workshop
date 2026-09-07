@@ -44,6 +44,8 @@ very capable in terms of it's built-in Git and GitHub interactions.
 [GitExtensions](https://gitextensions.github.io/) Is a very good one as well,
 much more feature-complete but a little more confusing.
 
+[GitCola](https://git-cola.github.io/) is another good one, for the Linux folks.
+
 [Fork](https://git-fork.com/) isn't free, but great for every-day use.
 
 [GitKraken](https://www.gitkraken.com/) Is beautiful, but requires you
