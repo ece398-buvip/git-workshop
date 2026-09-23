@@ -51,6 +51,11 @@ much more feature-complete but a little more confusing.
 [GitKraken](https://www.gitkraken.com/) Is beautiful, but requires you
 to purchase a subscription for certain (sometimes necessary) features.
 
+### For Command-Line (Recommended)
+
+When using GitHub, you should read and generate ssh keys for your
+GitHub account. [Read about it here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+
 ## Resources
 
 If you would like to learn more about Git or GitHub, I would recommend
